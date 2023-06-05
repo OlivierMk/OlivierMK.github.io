@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Homepage
 use_math: true
 lang: zh
 comments: true
@@ -11,7 +11,7 @@ comments: true
     {% include contact_icons %}
   </div>
   <h1>
-    Homepage
+    Home
     {% if site.tagline %}<br/><small>{{ site.tagline }}</small>{% endif %}
   </h1>
 </div>
