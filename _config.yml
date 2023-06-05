@@ -13,21 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Olivier Mukendi's Website
+title: Salomon Kabongo's Website
 author :
-  name : Olivier Mukendi
-  email: oliv.k.mukendi@gmail.com
-  github : livk100
-  linkedin: olivier-m-b3a83724
+  name : Salomon Kabongo
+  email: salomon@aims.ac.za
+  github : Kabongosalomon
+  twitter : SalomonKabongo
+  linkedin: salomon-kabongo
 description: > # this means to ignore newlines until "baseurl:"
   This is an example
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oliviermk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://skabongo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# disqus:
-#   shortname: salomons-website
+disqus:
+  shortname: salomons-website
 
-# google_analytics: UA-158544608-1
+google_analytics: UA-158544608-1
 
 # Build settings
 markdown: kramdown
@@ -54,7 +55,7 @@ menuitems:
         url:      /projects.html }
     - { title:    Publications,
         url:      /publications.html }
-    - { title:    Resume,
+    - { title:    Curriculum Vitae,
         url:      /cv.html}
     - { title:    Blogs,
         url:      /archive/index.html}
@@ -126,10 +127,10 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   
-  # analytics :
-  #   provider : google
-  #   google :
-  #       tracking_id : 'UA-44085641-1'
+  analytics :
+    provider : google
+    google :
+        tracking_id : 'UA-44085641-1'
     # getclicky :
     #   site_id :
     # mixpanel :
