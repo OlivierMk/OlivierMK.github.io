@@ -45,7 +45,7 @@ CV in [PDF](/archive/OlivierCV.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**Heartland Community College**](https://www.heartland.edu/), 18/2014 - 05/2016 
+[**Heartland Community College**](https://www.heartland.edu/), 08/2014 - 05/2016 
 - **Associate in science focused in computer science**
 </td> 
 </tr>

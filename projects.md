@@ -30,6 +30,7 @@ the Fasiconnect project aims to attract investors from the agricultural land sec
 </td> 
 </tr>
 
+
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 <img src="images/projects/lezo1.jpeg" width="200" height="200" />
@@ -37,6 +38,7 @@ the Fasiconnect project aims to attract investors from the agricultural land sec
 <td></td>
 <td markdown="1">
 [**Lezolezo**](https://lezolezo.com)
+
 In this project, We solve problems through collaboration, creative strategy and technologies integration in the DRCongo.
 </td> 
 </tr>
