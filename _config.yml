@@ -56,8 +56,8 @@ menuitems:
     #     url:      /publications.html }
     - { title:    Resume,
         url:      /cv.html}
-    - { title:    Blogs,
-        url:      /archive/index.html}
+    # - { title:    Blogs,
+    #     url:      /archive/index.html}
     # - { title:    Notes,
     #     dropdown: true,
     #     subitems: [ { title: Recent Notes,
