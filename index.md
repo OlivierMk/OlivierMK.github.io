@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Home
 use_math: true
 lang: zh
 comments: true
@@ -26,7 +26,7 @@ img {
 }
 </style>
 
-<img src="images/main/monpic.jpg" class="center" style="width:200px">
+<img src="images/main/monpic1.jpg" class="center" style="width:200px">
 
 
 ### About Me
