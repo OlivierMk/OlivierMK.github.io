@@ -71,9 +71,9 @@ CV in [PDF](/archive/OlivierCV.pdf) version.
 #### Tools
 
 - Git 
-- Blender
+- Kali and Metaspoitable 2
 - T2
-- TaskForce
+- Cisoco Packet Tracer
 </div>
 
 <div class="leftpane1" markdown="1">

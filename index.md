@@ -30,7 +30,7 @@ img {
 
 
 ### About Me
-Olivier Mukendi graduated in cyber security in 2020 at Illinois State university. Holder of a Comptia Security Plus certificate since March 2023. 
+I believe being genuine and nurturing, along with professional and driven, which is an essential combination for people in my field. I possess computer programming skills and a good understanding of databases querying and data security. Additionally, my abilities extend to teamwork and problem-solving with proficiency in leadership. Working with people from diverse backgrounds has provided me with a deep understanding and awareness of differences in both individuals and organizations. 
 
 ---
 
@@ -38,7 +38,11 @@ Olivier Mukendi graduated in cyber security in 2020 at Illinois State university
 My research interests include but not limited to:
 - Cyber security
     - Etical Hacking
-    - Forensics
+    - Risk Management
+    - Data Security
+    - Threat Detection and Analysis
+    - Firewall Configuration
+    - Network Security
 - 3D Computer graphic  
     - Blender
 
@@ -47,10 +51,9 @@ My research interests include but not limited to:
 ---
 
 ### News
+- [Jun 2023] Started Learning ReactJS
 - [Mai 2023] Stated preparing for a Cisco CCNA Certificate. 
-- [March 2023] got a Comptia Security+
-- [Jun 2023] Started Learning ReactJS 
-
+- [March 2023] got a Comptia Security+ 
 
 ---
 
